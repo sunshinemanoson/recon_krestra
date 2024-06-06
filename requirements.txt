@@ -1,6 +1,6 @@
 pyodbc
 tableauserverclient
-create_engine
+sqlalchemy
 requests
 os.path
 config
