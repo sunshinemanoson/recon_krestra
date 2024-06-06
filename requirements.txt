@@ -1,0 +1,9 @@
+pyodbc
+tableauserverclient
+create_engine
+requests
+os.path
+config
+pandas
+pandas.io.sql
+datetime
