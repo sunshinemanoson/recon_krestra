@@ -1,5 +1,5 @@
-pip install pyodbc==4.0.39
-pip install tableauserverclient==0.19.0
-pip install SQLAlchemy==2.0.21
-pip install requests==2.31.0
-pip install pandas==2.0.2
+pyodbc==4.0.39
+tableauserverclient==0.19.0
+SQLAlchemy==2.0.21
+requests==2.31.0
+pandas==2.0.2
